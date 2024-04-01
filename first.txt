@@ -3,5 +3,9 @@ This is a first fil
 adding a old line codee
 adding feature one
 adding a new line codee
+<<<<<<< HEAD
 new line of code
 >>>>>>> dev1
+=======
+This is s feature from Dev2
+>>>>>>> dev2
