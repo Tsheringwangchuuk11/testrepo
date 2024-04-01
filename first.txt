@@ -1,3 +1,7 @@
 This is a first fil
+<<<<<<< HEAD
 adding a old line codee
 adding feature one
+adding a new line codee
+new line of code
+>>>>>>> dev1
